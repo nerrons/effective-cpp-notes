@@ -1,8 +1,11 @@
 # Effective C++
 
 Class: C++
+
 Created: Jun 4, 2020 6:28 AM
+
 Finished: Jun 30, 2020
+
 Type: Book
 
 # Introduction
@@ -11,10 +14,6 @@ C++ offers too much. To write effective C++, you need to
 
 - make design decisions, from big (class hierarchy) to small (pass-by-reference or pass-by-pointer)
 - make those decisions happen. It's not easy.
-
-### **Terminology**
-
-[See EMC++](https://www.notion.so/Effective-Modern-C-a079f59a1a40420cab6a2dcaa7f593db#70bbc330e3d54dfdbf8d030e1f01466d)
 
 # Accustoming to C++
 
